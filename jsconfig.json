@@ -1,0 +1,7 @@
+{
+    // Compiler Options for NextJS
+    "compilerOptions" : {
+        // This allows Relative Imports
+        "baseUrl" : "src",
+    },
+}
